@@ -1,6 +1,6 @@
 export ZSH="~/.oh-my-zsh"
 
-ZSH_THEME="rubbyrussel"
+ZSH_THEME="robbyrussell"
 
 HIST_STAMPS="mm/dd/yyyy"
 
